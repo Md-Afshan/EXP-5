@@ -1,4 +1,7 @@
 # Experiment 5: Zero-Knowledge Proof (ZK) Private Voting System
+### NAME: Muhammad Afshan A
+### REG NO: 212223100035
+### DEPARTMENT: CSE(CYBER SECURITY)
 # Aim:
 To implement a fully private and transparent voting system using Zero-Knowledge Proofs (ZKPs). This ensures that votes are counted fairly without revealing who voted for whom.
 
@@ -58,13 +61,16 @@ contract ZKVoting {
 ```
 # Expected Output:
 Voters commit their votes privately.
+![alt text](image1.png)
+
 
 
 When revealed, the contract verifies correctness but keeps votes anonymous.
+![alt text](image2.png)
 
 
 Final result is publicly verifiable without exposing individual votes.
-
+![alt text](image3.png)
 
 
 # High-Level Overview:
@@ -77,3 +83,4 @@ Prevents vote tampering while maintaining voter privacy.
 Mimics real-world ZK voting applications in governance and DAOs.
 
 # RESULT: 
+Thus a fully private and transparent voting system using Zero-Knowledge Proofs (ZKPs) is executed successfully.
